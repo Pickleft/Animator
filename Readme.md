@@ -40,14 +40,7 @@ Contributors names and contact info
 
 [@Pickleft](https://twitter.com/Pickleft) / Pickleft#1853
 
-## Version History
 
-* 0.1
-    * Initial Release
-
-## License
-
-This project is licensed under the [Pickleft] License - see the LICENSE.md file for details
 
 ## Acknowledgments
 
