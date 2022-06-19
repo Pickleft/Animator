@@ -24,14 +24,14 @@ https://user-images.githubusercontent.com/76597572/174492778-ff94d95b-98fb-4b5c-
 * Run Application With FadeIn Animation :
 
 ```
-            AnimatorModule animator = new AnimatorModule();
-			animator.ShowAnimation(new Form1(), AnimatorModule.AnimationStyle.SlideLeft)
-            Application.Run();
+	AnimatorModule animator = new AnimatorModule();
+	animator.ShowAnimation(new Form1(), AnimatorModule.AnimationStyle.SlideLeft)
+	Application.Run();
 ```
 * Display Form With Animation : 
 ```
-            AnimatorModule animator = new AnimatorModule();
-			animator.ShowAnimation(new Form1(), AnimatorModule.AnimationStyle.SlideLeft)
+	AnimatorModule animator = new AnimatorModule();
+	animator.ShowAnimation(new Form1(), AnimatorModule.AnimationStyle.SlideLeft)
 ```
 
 ## Authors
