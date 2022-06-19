@@ -15,7 +15,7 @@ Give Your C# Application A New Look With The Form Display Animation.
 
 ## Preview
 
-https://raw.githubusercontent.com/Pickleft/Animator/main/9QTh5FCzCt.mp4
+https://github.com/Pickleft/Animator/blob/9e0ee3f3d020a1b9cabf87c6e2759bd027efad88/9QTh5FCzCt.mp4
 
 
 ## Usage
