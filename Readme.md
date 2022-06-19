@@ -15,7 +15,7 @@ Give Your C# Application A New Look With The Form Display Animation.
 
 ## Preview
 
-https://github.com/Pickleft/Animator/blob/main/9QTh5FCzCt.mp4
+[You Enjoy](https://raw.githubusercontent.com/Pickleft/Animator/main/9QTh5FCzCt.mp4)
 
 
 ## Usage
@@ -28,7 +28,7 @@ https://github.com/Pickleft/Animator/blob/main/9QTh5FCzCt.mp4
             Application.Run();
 ```
 	* Display Form With Animation : 
-	```
+```
             AnimatorModule animator = new AnimatorModule();
 			animator.ShowAnimation(new Form1(), AnimatorModule.AnimationStyle.SlideLeft)
 ```
