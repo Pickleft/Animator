@@ -28,7 +28,7 @@ https://user-images.githubusercontent.com/76597572/174492778-ff94d95b-98fb-4b5c-
 	animator.ShowAnimation(new Form1(), AnimatorModule.AnimationStyle.SlideLeft)
 	Application.Run();
 ```
-* Display Form With Animation : 
+	* Display Form With Animation : 
 ```
 	Animator.Utils.AnimatorModule animator = new Animator.Utils.AnimatorModule();
 	animator.ShowAnimation(new Form1(), AnimatorModule.AnimationStyle.SlideLeft)
